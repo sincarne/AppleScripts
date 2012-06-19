@@ -2,6 +2,10 @@
 
 This repository contains all the AppleScripts I've written or adapted for personal use. I don't intend for them to be earth-shattering, they just scratch some personal itches.
 
+## New message with attachments in Sparrow - `newmessageinsparrow.scpt` ##
+
+Set as a service. Gets selected files and folders, and creates a new message in Finder with specified files attached.
+
 ## Clean By Kind - `cleanbykind.scpt` ##
 
 In Lion, the default folder view behaviour became "Arrange by ...", a view that hides most of the files in a folder. I prefer the old "Clean by kind". This script lives in my Finder toolbar for a quick clean up, and in my script menu bound to a key.
