@@ -14,6 +14,9 @@ on run
 			set this_folder to startup disk
 		end try
 		set the_path to POSIX path of this_folder
-		do shell script "/usr/bin/touch " & quoted form of the_path & "untitled.txt"
+		
+		set the_file to text returned of (display dialog "Enter name of file to create. If file already exists, the modification time will be set to now." default answer "untitled.txt")
+		
+		do shell script "/usr/bin/touch " & quoted form of the_path & the_file
 	end tell
 end run
