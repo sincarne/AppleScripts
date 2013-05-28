@@ -2,6 +2,10 @@
 
 This repository contains all the AppleScripts I've written or adapted for personal use. I don't intend for them to be earth-shattering, they just scratch some personal itches.
 
+## Duplicate Finder Window - `duplicatefinderwindow.scpt` ##
+
+Opens a new window in the Finder, and sets the location to that of the previously foremost window.
+
 ## New message with attachments in Sparrow - `newmessageinsparrow.scpt` ##
 
 Set as a service. Gets selected files and folders, and creates a new message in Finder with specified files attached.
