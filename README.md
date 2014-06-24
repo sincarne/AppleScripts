@@ -6,6 +6,10 @@ This repository contains all the AppleScripts I've written or adapted for person
 
 Opens a new window in the Finder, and sets the location to that of the previously foremost window.
 
+## Duplicate Finder Tab - `duplicatefindertab.scpt` ##
+
+Opens a new tab in the front Finder window, and sets the location to that of the previously foremost tab.
+
 ## New message with attachments in Sparrow - `newmessageinsparrow.scpt` ##
 
 Set as a service. Gets selected files and folders, and creates a new message in Finder with specified files attached.
