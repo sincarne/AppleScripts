@@ -2,6 +2,11 @@
 
 This repository contains all the AppleScripts I've written or adapted for personal use. I don't intend for them to be earth-shattering, they just scratch some personal itches.
 
+## Duplicate Finder Window - `closetabstoright.scpt` ##
+
+For Safari. Closes all tabs to the right of the current tab.
+
+
 ## Duplicate Finder Window - `duplicatefinderwindow.scpt` ##
 
 Opens a new window in the Finder, and sets the location to that of the previously foremost window.
