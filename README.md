@@ -2,10 +2,9 @@
 
 This repository contains all the AppleScripts I've written or adapted for personal use. I don't intend for them to be earth-shattering, they just scratch some personal itches.
 
-## Duplicate Finder Window - `closetabstoright.scpt` ##
+## Close Tabs to Right - `closetabstoright.scpt` ##
 
 For Safari. Closes all tabs to the right of the current tab.
-
 
 ## Duplicate Finder Window - `duplicatefinderwindow.scpt` ##
 
@@ -30,3 +29,7 @@ I like the ability in Windows to right-click and create a new text file. This sc
 ## Quit All - `quitall.scpt` ##
 
 I frequently find myself with a dock full of one-off apps I use during the development process. I use this script to kill all but my core applications.
+
+## Hide All - `hideall.scpt` ##
+
+Like `quitall.scpt`, but hides the applications instead.
